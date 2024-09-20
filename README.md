@@ -15,8 +15,6 @@ Durante todo meu período de estudos cheguei a realizar um curso profissionaliza
 
 Em todo esse ciclo, obtive experiência com diversas situações e problemas onde ao mesmo tempo me proporcionou conhecimento em diversas linguagens, tais como C++, Python, Java, Javascript entre outras.
 
-Participei também de atividades extracurriculares, de onde surgiu uma das minhas maiores conquistas atualmente, a maratona de programação Interfatecs, onde conquistei junto a minha equipe, o primeiro lugar na fase final da competição de 2023.
-
 Atualmente, trabalho na área do back-end onde aprimoro meus conhecimentos e desenvolvo aplicações melhores a cada dia que passa, junto a profissionais e amigos incríveis que sempre estão ao meu lado.
 
 ## Contatos
