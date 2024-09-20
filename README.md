@@ -13,7 +13,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, na FATEC Profº Jessen 
 
 Durante todo meu período de estudos cheguei a realizar um curso profissionalizante de programação e robótica e desenvolvi um projeto de robotica no ensino médio também, no entanto acabei me distanciando por alguns anos por focar em outra área que sou apaixonado, área da saúde.
 
-Em todo esse ciclo, obtive experiência com diversas situações e problemas onde ao mesmo tempo me proporcionou conhecimento em diversas linguagens, tais como C++, Python, Java, Javascript entre outras.
+Em todo esse ciclo, obtive experiência com diversas situações e problemas onde ao mesmo tempo me proporcionou conhecimento em diversas linguagens, tais como C++, Python, Java e Javascript.
 
 Atualmente, trabalho na área do back-end onde aprimoro meus conhecimentos e desenvolvo aplicações melhores a cada dia que passa, junto a profissionais e amigos incríveis que sempre estão ao meu lado.
 
