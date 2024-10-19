@@ -9,7 +9,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas
 </pre>
 </p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, na FATEC Profº Jessen Vidal em São José dos Campos. Tenho 24 anos e trabalho na área a quase 1 ano.
+Sou estudante de Análise e Desenvolvimento de Sistemas, na FATEC Profº Jessen Vidal em São José dos Campos. Tenho 24 anos e trabalho na área a quase 1 ano, nesse ano passei pela empresa [Nexus GeoEngenharia](https://www.nexusbr.com/pt_br/) onde tive um foco bem grande com Banco de Dados, participei da iniciação cientifica no [INPE](https://www.gov.br/inpe/pt-br) onde desenvolvi uma pesquisa sobre "Uso da Inteligência Artificial para Categorização de Daods Meterológicos e Previsão de Evento Climáticos Extremos" e Atualmente trabalho na [Climatempo](https://www.climatempo.com.br/).
 
 Durante todo meu período de estudos cheguei a realizar um curso profissionalizante de programação e robótica e desenvolvi um projeto de robotica no ensino médio também, no entanto acabei me distanciando por alguns anos por focar em outra área que sou apaixonado, área da saúde.
 
@@ -51,6 +51,7 @@ Atualmente, trabalho na área do back-end onde aprimoro meus conhecimentos e des
 
 **Data:** *2° Semestre de  2022*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Professores responsáveis:** Jean Carlos e Egydio
 **Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz.</br></br>
 **Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o tecnico, e tambem possibilita a vizualização rapida do tecnico para saber quais maquinas estão em cada sala, e tambem seu estado, podendo ser personalizado</br></br>
 
@@ -83,12 +84,12 @@ Minhas principais contribuições no projeto foram:
 
 ### Hard Skills
 
-- **HTML5**: Desenvolvimento de interfaces web de forma estruturada.
-- **CSS**: Estilização básica de elementos com foco em responsividade e usabilidade.
-- **Python**: Criação de interatividade entre o Back-end e o banco de dados.
-- **Flask**: Implementação de rotas e APIs para comunicação entre o frontend e o backend.
-- **MySQL**: Gerenciamento de banco de dados relacional com consultas e manipulação de dados.
-- **AWS**: Implementação de soluções escaláveis na nuvem.
+- **HTML5**: Desenvolvimento de interfaces web de forma estruturada(7/10).
+- **CSS**: Estilização básica de elementos com foco em responsividade e usabilidade(6/10).
+- **Python**: Criação de interatividade entre o Back-end e o banco de dados(09/10).
+- **Flask**: Implementação de rotas e APIs para comunicação entre o frontend e o backend(9/10).
+- **MySQL**: Gerenciamento de banco de dados relacional com consultas e manipulação de dados(10/10).
+- **AWS**: Implementação de soluções escaláveis na nuvem(08/10).
 
 ---
 
@@ -97,5 +98,52 @@ Minhas principais contribuições no projeto foram:
 - **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
 - **Trabalho em equipe**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
 - **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
+
+</details>
+
+<details>
+<summary>2º Semestre</summary>
+</br>
+
+**Data:** *Fevereiro/2023*</br></br>
+**Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Professores responsáveis:** Juliano Bertoti e Cláudio 
+**Desafio:** Criar um sistema desktop com o intuito de gerenciar um fluxo escolar, baseado exigências e requisitos mínimos escolares.</br></br>
+**Solução:** Para resolver o problema sugerido, criamos uma interface intuitiva que realiza tudo que um professor precisa para gerenciar, tais como alunos, atividades e notas e tambem possibilita a vizualização de estatisticas baseadas nisso.</br></br>
+
+**GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_2sem)</br></br>
+  
+![SegundaAPI](https://github.com/MirageGroup/API_MirageGroup_2sem/assets/56747051/0679c30b-f9d5-464e-81de-0c84bfbf7ad9)
+
+### Tecnologias Utilizadas
+
+- **Java**: Linguagem utilizada para criar a lógica por trás de todo o sistema desktop.
+- **Java Swing**: Responsável por criar as interfaces gráficas e torná-la viável para uso interativo.
+- **MySQL**: Banco de dados utilizado para armazenar todas as informações sobre os alunos e burocracias escolares.
+
+---
+
+### Contribuições Pessoais
+
+Minhas principais contribuições no projeto foram:
+
+- Foi a API que mais contribuí para concretização do desafio proposto pelo cliente, fui responsável por boa parte das tasks onde era necessário fazer as abas de Alunos, Atividades e cadastro de notas, realizei tanto o back-end quanto front-end
+- Tive o papel de coordenar as pessoas como Scrum Master e realizei boa parte do desenvolvimento das funcionalidades
+---
+
+### Hard Skills
+
+- **Java**: Desenvolvimento da lógica orientada a objetos. Proeficiência(10/10).
+- **Java Swing**: Estilização e criação de componentes para interface. Proeficiência(9/10).
+- **MySql**: Criação de um banco de dados relacional. Proeficiência(10/10).
+
+---
+
+### Soft Skills
+
+- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
+- **Trabalho em equipe**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
+- **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
+- **Proatividade**: Tomei frente ao desenvolvimento e busquei me especializar naquilo para ajudar meu time.
 
 </details>
