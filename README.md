@@ -51,7 +51,7 @@ Atualmente, trabalho na área do back-end onde aprimoro meus conhecimentos e des
 
 **Data:** *2° Semestre de  2022*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Professores responsáveis:** Jean Carlos e Egydio
+**Professores responsáveis:** *Jean Carlos e Egydio* </br></br>
 **Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz.</br></br>
 **Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o tecnico, e tambem possibilita a vizualização rapida do tecnico para saber quais maquinas estão em cada sala, e tambem seu estado, podendo ser personalizado</br></br>
 
@@ -84,12 +84,12 @@ Minhas principais contribuições no projeto foram:
 
 ### Hard Skills
 
-- **HTML5**: Desenvolvimento de interfaces web de forma estruturada(7/10).
-- **CSS**: Estilização básica de elementos com foco em responsividade e usabilidade(6/10).
-- **Python**: Criação de interatividade entre o Back-end e o banco de dados(09/10).
-- **Flask**: Implementação de rotas e APIs para comunicação entre o frontend e o backend(9/10).
-- **MySQL**: Gerenciamento de banco de dados relacional com consultas e manipulação de dados(10/10).
-- **AWS**: Implementação de soluções escaláveis na nuvem(08/10).
+- **HTML5**: Desenvolvimento de interfaces web de forma estruturada. Proeficiência: (7/10).
+- **CSS**: Estilização básica de elementos com foco em responsividade e usabilidade. Proeficiência: (6/10).
+- **Python**: Criação de interatividade entre o Back-end e o banco de dados. Proeficiência: (09/10).
+- **Flask**: Implementação de rotas e APIs para comunicação entre o frontend e o backend. Proeficiência: (9/10).
+- **MySQL**: Gerenciamento de banco de dados relacional com consultas e manipulação de dados. Proeficiência: (10/10).
+- **AWS**: Implementação de soluções escaláveis na nuvem. Proeficiência: (08/10).
 
 ---
 
@@ -107,7 +107,7 @@ Minhas principais contribuições no projeto foram:
 
 **Data:** *Fevereiro/2023*</br></br>
 **Empresa:** *FATEC São José dos Campos - SP*</br></br>
-**Professores responsáveis:** Juliano Bertoti e Cláudio 
+**Professores responsáveis:** *Juliano Bertoti e Cláudio* </br></br>
 **Desafio:** Criar um sistema desktop com o intuito de gerenciar um fluxo escolar, baseado exigências e requisitos mínimos escolares.</br></br>
 **Solução:** Para resolver o problema sugerido, criamos uma interface intuitiva que realiza tudo que um professor precisa para gerenciar, tais como alunos, atividades e notas e tambem possibilita a vizualização de estatisticas baseadas nisso.</br></br>
 
@@ -133,9 +133,9 @@ Minhas principais contribuições no projeto foram:
 
 ### Hard Skills
 
-- **Java**: Desenvolvimento da lógica orientada a objetos. Proeficiência(10/10).
-- **Java Swing**: Estilização e criação de componentes para interface. Proeficiência(9/10).
-- **MySql**: Criação de um banco de dados relacional. Proeficiência(10/10).
+- **Java**: Desenvolvimento da lógica orientada a objetos. Proeficiência: (10/10).
+- **Java Swing**: Estilização e criação de componentes para interface. Proeficiência: (9/10).
+- **MySql**: Criação de um banco de dados relacional. Proeficiência: (10/10).
 
 ---
 
@@ -147,3 +147,51 @@ Minhas principais contribuições no projeto foram:
 - **Proatividade**: Tomei frente ao desenvolvimento e busquei me especializar naquilo para ajudar meu time.
 
 </details>
+
+<details>
+<summary>3º Semestre</summary>
+</br>
+
+**Data:** *Agosto/2023*</br></br>
+**Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Professores responsáveis:** *Fernando Massanori e Cláudio*</br></br>
+**Desafio:** Criar uma plataforma digital de trabalho, onde se pode gerenciar processos e procedimentos, além de se armmazenar informações e evidências.</br></br>
+**Solução:** Para resolver o problema sugerido, a plataforma foi criada pensando na facilidade e dinamicidade desses processos burocráticos empresariais. Imaginando a dificuldade de alguns funcionários ao precisaremusar um sistema complexo, o foco se manteve na experiência desse usuário para otimizar o rendimento.</br></br>
+
+**GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_3sem)</br></br>
+  
+[<img src="https://img.youtube.com/vi/lc2X6gtJVtY/maxresdefault.jpg" width="600" height="400" />](https://youtu.be/lc2X6gtJVtY)
+
+### Tecnologias Utilizadas
+
+- **Typescript**: Linguagem utilizada para desenvolver a aplicação.
+- **NodeJs**: Responsável por criar o servidor e como ambiente de execução.
+- **MySQL**: Banco de dados utilizado para armazenar todas as informações sobre as evidências, usuários e processos.
+- **React**: Biblioteca de javascript para estilizar e componentizar a interface.
+---
+
+### Contribuições Pessoais
+
+Minhas principais contribuições no projeto foram:
+
+- Realizei algumas validações para o projeto no geral como na exclusão de dados ou instancias realizadas pelo usuário, no entanto eu não consegui contribuir como gostaria nessa API pois eu estava muito ocupado com dois estágios que eu estava fazendo ao mesmo tempo.
+
+---
+
+### Hard Skills
+
+- **NodeJs**: Framework para backend. Proeficiência: (07/10).
+- **Typescript**: Linguagem de desenvolvimento. Proeficiência: (08/10).
+- **MySql**: Criação de um banco de dados relacional. Proeficiência: (08/10).
+- **React**: Biblioteca de javascript. Proeficiência: (6/10).
+
+---
+
+### Soft Skills
+
+- **Comunicação**: Durante o projeto, conduzi reuniões com a equipe, opinando sempre sobre o desenvolvimento do projeto com minhas experiencias adquiridas nos estágios que eu realizava na mesma época.
+- **Gestão de tempo**: Apliquei técnicas de priorização de tempo para tentar conciliar minha rotina e por mais dificil que tenha sido auxiliei os demais em suas tarefas.
+- **Resolução de problemas**: Com minha base de conhecimento não enfrentei dificuldade nas realizações das tarefas e a documentação foi muito útil
+
+</details>
+
