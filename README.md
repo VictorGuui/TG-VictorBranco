@@ -1,4 +1,6 @@
-# Victor Guilherme Branco
+<div align="center">
+  <h1>Victor Guilherme Branco</h1>
+</div>
 
 ## Introdução
 <img align="right" src='/assets/Foto Pessoal.jpg' width="25%" />
@@ -61,7 +63,6 @@ Atualmente, trabalho na área do back-end onde aprimoro meus conhecimentos e des
 
 <img src="./assets/mvp-sprint4.gif" alt="aplicação rodando" width="600" height="450">
 </div>
-
 
 ### Tecnologias Utilizadas
 
@@ -174,7 +175,10 @@ Minhas principais contribuições no projeto foram:
 
 Minhas principais contribuições no projeto foram:
 
-- Realizei algumas validações para o projeto no geral como na exclusão de dados ou instancias realizadas pelo usuário, no entanto eu não consegui contribuir como gostaria nessa API pois eu estava muito ocupado com dois estágios que eu estava fazendo ao mesmo tempo.
+- Nessa API eu não consegui colaborar da forma como eu deveria pois foi um momento eu que eu estava realizando dois estagios ao mesmo tempo portanto não pude contribuir muito com funcionalidades.
+- Colaborei com o desenvolvimento do projeto mais como um overview e auxiliando os demais quando necessário.
+- Rota de inserção de usuários.
+- Ajudei na organização do time e na aplicação do Scrum 
 
 ---
 
@@ -195,3 +199,50 @@ Minhas principais contribuições no projeto foram:
 
 </details>
 
+<details>
+<summary>4º Semestre</summary>
+</br>
+
+**Data:** *Feveiro/2024*</br></br>
+**Empresa:** *SIATT*</br></br>
+**Professores responsáveis:** *Fabiano Sabha e Juliana*</br></br>
+**Desafio:** Desenvolver uma aplicação que automatiza o agendamento de reuniões, integrando dados de diferentes fontes para gerenciar disponibilidades, formatos (presencial, online, híbrido) e níveis de permissão, além de gerar atas pré-preenchidas para otimizar o processo.</br></br>
+**Solução:** Para resolver o problema sugerido, a plataforma foi pensada na facilitação de agendamentos e execução de reuniões dentro de uma aplicação já definida à empresa, mantendo os usuários mais integrados aos processos.</br></br>
+
+**GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
+  
+### Tecnologias Utilizadas
+
+- **Typescript**: Linguagem utilizada para desenvolver a aplicação.
+- **NodeJs**: Responsável por criar o servidor e como ambiente de execução.
+- **MySQL**: Banco de dados utilizado para armazenar todas as informações sobre os usuários e histórico de reuniões.
+- **React**: Biblioteca de javascript para estilizar e componentizar a interface.
+---
+
+### Contribuições Pessoais
+
+Minhas principais contribuições no projeto foram:
+
+- Realizar algumas validações para o usuários, reuniões e salas de reuniões como na exclusão de dados e instâncias realizadas pelo usuário.
+- Criação da funcionalidade de login tanto no backend quanto no frontend
+- Ajudei na organização do time e na aplicação do Scrum 
+
+---
+
+### Hard Skills
+
+- **NodeJs**: Framework para backend. Proeficiência: 9/10
+- **Typescript**: Linguagem de desenvolvimento. Proeficiência: 9/10
+- **MySql**: Criação de um banco de dados relacional. Proeficiência: 10/10
+- **React**: Biblioteca de javascript. Proeficiência: 6/10
+
+---
+
+### Soft Skills
+
+- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe, mas percebi que houve falhas na clareza da comunicação, resultando em desalinhamentos. Busquei ser mais claro nas diretrizes e abrir espaço para feedbacks, ajustando o curso conforme necessário.
+- **Gestão de tempo**: Apliquei técnicas de priorização, como o método de matriz de Eisenhower, mas tive dificuldades em manter o foco nas tarefas mais críticas, resultando em atrasos em algumas entregas. Procurei ajustar a organização da equipe e reavaliar constantemente as prioridades para mitigar esses problemas.
+- **Resolução de problemas** – Identifiquei desafios técnicos inesperados ao longo do desenvolvimento. Consegui resolver a maioria deles com soluções funcionais, mas reconheço que poderia ter sido mais eficiente se tivesse solicitado ajuda ou explorado outras alternativas.
+- **Adaptabilidade**: Durante o projeto, enfrentei mudanças inesperadas nos requisitos e, inicialmente, tive dificuldades para me adaptar rapidamente, o que afetou o ritmo do desenvolvimento. Com o tempo, procurei ajustar a abordagem e adaptar a equipe às novas demandas, embora o impacto já tivesse sido sentido nas entregas.
+
+</details>
