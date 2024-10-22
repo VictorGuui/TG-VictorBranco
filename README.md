@@ -11,7 +11,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas
 </pre>
 </p>
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, na FATEC Profº Jessen Vidal em São José dos Campos. Tenho 24 anos e trabalho na área a quase 1 ano, nesse ano passei pela empresa [Nexus GeoEngenharia](https://www.nexusbr.com/pt_br/) onde tive um foco bem grande com Banco de Dados, participei da iniciação cientifica no [INPE](https://www.gov.br/inpe/pt-br) onde desenvolvi uma pesquisa sobre "Uso da Inteligência Artificial para Categorização de Daods Meterológicos e Previsão de Evento Climáticos Extremos" e Atualmente trabalho na [Climatempo](https://www.climatempo.com.br/).
+Olá, me chamo Victor Guilherme, atualmente sou estudante de Análise e Desenvolvimento de Sistemas, na FATEC Profº Jessen Vidal em São José dos Campos. Tenho 24 anos e trabalho na área a quase 1 ano, nesse ano passei pela empresa [Nexus GeoEngenharia](https://www.nexusbr.com/pt_br/) onde tive um foco bem grande com Banco de Dados, participei da iniciação cientifica no [INPE](https://www.gov.br/inpe/pt-br) onde desenvolvi uma pesquisa sobre "Uso da Inteligência Artificial para Categorização de Daods Meterológicos e Previsão de Evento Climáticos Extremos" e Atualmente trabalho na [Climatempo](https://www.climatempo.com.br/).
 
 Durante todo meu período de estudos cheguei a realizar um curso profissionalizante de programação e robótica e desenvolvi um projeto de robotica no ensino médio também, no entanto acabei me distanciando por alguns anos por focar em outra área que sou apaixonado, área da saúde.
 
@@ -142,8 +142,8 @@ Minhas principais contribuições no projeto foram:
 
 ### Soft Skills
 
-- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
-- **Trabalho em equipe**: Atuei colaborativamente com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
+- **Comunicação**: Durante o projeto, conduzi todas as reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
+- **Trabalho em equipe**: Atuei com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
 - **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
 - **Proatividade**: Tomei frente ao desenvolvimento e busquei me especializar naquilo para ajudar meu time.
 
@@ -194,7 +194,7 @@ Minhas principais contribuições no projeto foram:
 ### Soft Skills
 
 - **Comunicação**: Durante o projeto, conduzi reuniões com a equipe, opinando sempre sobre o desenvolvimento do projeto com minhas experiencias adquiridas nos estágios que eu realizava na mesma época.
-- **Gestão de tempo**: Apliquei técnicas de priorização de tempo para tentar conciliar minha rotina e por mais dificil que tenha sido auxiliei os demais em suas tarefas.
+- **Gestão de tempo**: Apliquei técnicas de priorização de tempo para tentar conciliar minha rotina e auxiliei os demais em suas tarefas.
 - **Resolução de problemas**: Com minha base de conhecimento não enfrentei dificuldade nas realizações das tarefas e a documentação foi muito útil
 
 </details>
@@ -231,18 +231,18 @@ Minhas principais contribuições no projeto foram:
 
 ### Hard Skills
 
-- **NodeJs**: Framework para backend. Proeficiência: 9/10
-- **Typescript**: Linguagem de desenvolvimento. Proeficiência: 9/10
-- **MySql**: Criação de um banco de dados relacional. Proeficiência: 10/10
-- **React**: Biblioteca de javascript. Proeficiência: 6/10
+- **NodeJs**: Framework para backend. Proeficiência: (9/10).
+- **Typescript**: Linguagem de desenvolvimento. Proeficiência: (9/10).
+- **MySql**: Criação de um banco de dados relacional. Proeficiência: (10/10).
+- **React**: Biblioteca de javascript. Proeficiência: (6/10).
 
 ---
 
 ### Soft Skills
 
-- **Comunicação**: Durante o projeto, conduzi diversas reuniões com a equipe, mas percebi que houve falhas na clareza da comunicação, resultando em desalinhamentos. Busquei ser mais claro nas diretrizes e abrir espaço para feedbacks, ajustando o curso conforme necessário.
-- **Gestão de tempo**: Apliquei técnicas de priorização, como o método de matriz de Eisenhower, mas tive dificuldades em manter o foco nas tarefas mais críticas, resultando em atrasos em algumas entregas. Procurei ajustar a organização da equipe e reavaliar constantemente as prioridades para mitigar esses problemas.
-- **Resolução de problemas** – Identifiquei desafios técnicos inesperados ao longo do desenvolvimento. Consegui resolver a maioria deles com soluções funcionais, mas reconheço que poderia ter sido mais eficiente se tivesse solicitado ajuda ou explorado outras alternativas.
-- **Adaptabilidade**: Durante o projeto, enfrentei mudanças inesperadas nos requisitos e, inicialmente, tive dificuldades para me adaptar rapidamente, o que afetou o ritmo do desenvolvimento. Com o tempo, procurei ajustar a abordagem e adaptar a equipe às novas demandas, embora o impacto já tivesse sido sentido nas entregas.
+- **Comunicação**: Durante o projeto o auxiliei diversas vezes no time o papel de Scrum master e auxiliando o time para a entrega e conduzindo reuniões.
+- **Gestão de tempo**: Colaborei na delegação das tasks para otimizar o desenvolvimento e equilibrio entre o estágio na Climatempo e a faculdade.
+- **Resolução de problemas** – Tive um papel especifico para tomadas de decisões na equipe, execução e solução de alguns desafios.
+- **Adaptabilidade**: Durante o projeto, tive que aprender a lidar com resiliência pois eu precisava lidar com coisas novas para mim tanto do lado da faculdade quanto do serviço e a Gestão do Estresse pois foi necessario algumas mudanças bruscas no desenvolviemento.
 
 </details>
