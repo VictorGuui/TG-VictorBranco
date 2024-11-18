@@ -3,21 +3,25 @@
 </div>
 
 ## Introdução
+
 <img align="right" src='/assets/Foto Pessoal.jpg' width="25%" />
 <p align="left" width="65%">
 <pre>
-Back-end Software Developer
+Back-end Software Developer  
 Tecnólogo em Análise e Desenvolvimento de Sistemas
 </pre>
 </p>
 
-Olá, me chamo Victor Guilherme, atualmente sou estudante de Análise e Desenvolvimento de Sistemas, na FATEC Profº Jessen Vidal em São José dos Campos. Tenho 24 anos e trabalho na área a quase 1 ano, nesse ano passei pela empresa [Nexus GeoEngenharia](https://www.nexusbr.com/pt_br/) onde tive um foco bem grande com Banco de Dados, participei da iniciação cientifica no [INPE](https://www.gov.br/inpe/pt-br) onde desenvolvi uma pesquisa sobre "Uso da Inteligência Artificial para Categorização de Daods Meterológicos e Previsão de Evento Climáticos Extremos" e Atualmente trabalho na [Climatempo](https://www.climatempo.com.br/).
+Olá! Me chamo Victor Guilherme. Atualmente, sou estudante de **Análise e Desenvolvimento de Sistemas** na FATEC Prof. Jessen Vidal, em São José dos Campos. Tenho 24 anos e atuo na área de tecnologia há quase 1 ano.
 
-Durante todo meu período de estudos cheguei a realizar um curso profissionalizante de programação e robótica e desenvolvi um projeto de robotica no ensino médio também, no entanto acabei me distanciando por alguns anos por focar em outra área que sou apaixonado, área da saúde.
+Nesse período, trabalhei na [Nexus GeoEngenharia](https://www.nexusbr.com/pt_br/), onde meu foco foi voltado principalmente para **bancos de dados**. Além disso, participei de uma **iniciação científica** no [INPE](https://www.gov.br/inpe/pt-br), desenvolvendo uma pesquisa intitulada: *"Uso da Inteligência Artificial para Categorização de Dados Meteorológicos e Previsão de Eventos Climáticos Extremos"*. Atualmente, sou parte da equipe da [Climatempo](https://www.climatempo.com.br/).
 
-Em todo esse ciclo, obtive experiência com diversas situações e problemas onde ao mesmo tempo me proporcionou conhecimento em diversas linguagens, tais como C++, Python, Java e Javascript.
+Ao longo da minha jornada acadêmica, fiz um curso profissionalizante de **programação e robótica**, além de desenvolver um projeto de robótica durante o ensino médio. Apesar disso, me afastei por alguns anos da área para explorar outra paixão: a **área da saúde**.
 
-Atualmente, trabalho na área do back-end onde aprimoro meus conhecimentos e desenvolvo aplicações melhores a cada dia que passa, junto a profissionais e amigos incríveis que sempre estão ao meu lado.
+Com essa trajetória, adquiri experiências diversas e ampliei meu conhecimento em linguagens de programação como **C++, Python, Java e JavaScript**.  
+
+Hoje, atuo como desenvolvedor back-end, onde me dedico a aprimorar habilidades e a criar aplicações cada vez melhores. Tenho o privilégio de trabalhar com profissionais e amigos incríveis que estão sempre ao meu lado, contribuindo para meu crescimento pessoal e profissional.
+
 
 ## Contatos
 - [Linkedin](https://www.linkedin.com/in/victor-guilherme-branco-portela-323386190/)
@@ -52,10 +56,13 @@ Atualmente, trabalho na área do back-end onde aprimoro meus conhecimentos e des
 </br>
 
 **Data:** *2° Semestre de  2022*</br></br>
-**Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Empresa:** *FATEC São José dos Campos - SP*</br>
+- **Área de Atuação:** Educação superior tecnológica.</br></br>
+
 **Professores responsáveis:** *Jean Carlos e Egydio* </br></br>
-**Desafio:** Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz.</br></br>
-**Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o tecnico, e tambem possibilita a vizualização rapida do tecnico para saber quais maquinas estão em cada sala, e tambem seu estado, podendo ser personalizado</br></br>
+**Desafio:** Um ambiente academico onde contem inumeros laboratórios precisa de uma forma de saber quais computadores estão com a execução debilitada, saber quais os problemas, e o tecnico precisa informar quais computadores estão em manutenção, quais ja estão restaurados, tudo isso de uma forma visual e fluida Desafio: Realizar a identificação de falhas nos equipamentos dos laboratórios de informática da FATEC-SJC, visando a abertura de solicitações internas para que as devidas correções sejam aplicadas de forma ágil e eficaz.</br>
+
+**Solução:** Para resolver o problema sugerido, criamos uma solução que facilita a abertura de chamados para o tecnico, e tambem possibilita a vizualização rapida do tecnico para saber quais maquinas estão em cada sala, e tambem seu estado, podendo ser personalizado.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup)</br></br>
 
@@ -107,10 +114,13 @@ Minhas principais contribuições no projeto foram:
 </br>
 
 **Data:** *Fevereiro/2023*</br></br>
-**Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Empresa:** *FATEC São José dos Campos - SP*</br>
+- **Área de Atuação:** Educação superior tecnológica.</br></br>
+
 **Professores responsáveis:** *Juliano Bertoti e Cláudio* </br></br>
-**Desafio:** Criar um sistema desktop com o intuito de gerenciar um fluxo escolar, baseado exigências e requisitos mínimos escolares.</br></br>
-**Solução:** Para resolver o problema sugerido, criamos uma interface intuitiva que realiza tudo que um professor precisa para gerenciar, tais como alunos, atividades e notas e tambem possibilita a vizualização de estatisticas baseadas nisso.</br></br>
+**Desafio:**  O professor enfrentava um problema no gerenciamento de turmas e alunos nas atividades escolares. O portal disponibilizado era limitado e instável, tornando desafiador para o professor acompanhar o desempenho dos alunos de forma eficiente, afetando a organização e o acompanhamento do ensino. O desafio proposto envolvia a necessidade de disponibilizar ao professor um aplicativo desktop em Java, que permitisse o gerenciamento eficiente das turmas e alunos de uma escola.</br>
+
+**Solução:**   Como solução para o problema, foi acordado com o cliente que minha equipe desenvolveria o WeClass, um aplicativo de uso exclusivo do docente, no qual ele poderia criar tarefas, controlar as entregas e monitorar o desempenho da turma e dos alunos.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_2sem)</br></br>
   
@@ -154,10 +164,13 @@ Minhas principais contribuições no projeto foram:
 </br>
 
 **Data:** *Agosto/2023*</br></br>
-**Empresa:** *FATEC São José dos Campos - SP*</br></br>
+**Empresa:** *Ionic-Health*</br>
+- **Área de Atuação:** Tecnologia para saúde, viabiliza a assistência médica por meio de tecnologias de automação e integração, fornecendo soluções de tecnologias remotas e de relatórios para a área da saúde.
+
 **Professores responsáveis:** *Fernando Massanori e Cláudio*</br></br>
-**Desafio:** Criar uma plataforma digital de trabalho, onde se pode gerenciar processos e procedimentos, além de se armmazenar informações e evidências.</br></br>
-**Solução:** Para resolver o problema sugerido, a plataforma foi criada pensando na facilidade e dinamicidade desses processos burocráticos empresariais. Imaginando a dificuldade de alguns funcionários ao precisaremusar um sistema complexo, o foco se manteve na experiência desse usuário para otimizar o rendimento.</br></br>
+**Desafio:** A Ionic Health apresentava dificuldades para rastrear e gerenciar suas atividades de forma eficiente, portanto, precisava de uma plataforma que organizasse e documentasse os processos regulatórios da empresa. O desafio proposto envolvia a necessidade de disponibilizar uma plataforma web unificada que permitisse à empresa gerenciar, monitorar e documentar cada etapa de seus processos regulatórios.</br>
+
+**Solução:** Como solução, a equipe desenvolveu uma interface de usuário intuitiva e amigável, oferecendo fácil navegação pela plataforma e permitindo aos usuários gerenciar todos os seus processos regulatórios, monitorá-los em tempo real, documentar todas as etapas desses processos, acompanhar os prazos e gerar relatórios detalhados.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_3sem)</br></br>
   
@@ -204,10 +217,13 @@ Minhas principais contribuições no projeto foram:
 </br>
 
 **Data:** *Feveiro/2024*</br></br>
-**Empresa:** *SIATT*</br></br>
+**Empresa:** *SIATT*</br>
+- **Área de Atuação:** Integração de sistemas de alto teor tecnológico, fornecendo soluções para demandas dos setores de defesa e aeroespacial.
+
 **Professores responsáveis:** *Fabiano Sabha e Juliana*</br></br>
-**Desafio:** Desenvolver uma aplicação que automatiza o agendamento de reuniões, integrando dados de diferentes fontes para gerenciar disponibilidades, formatos (presencial, online, híbrido) e níveis de permissão, além de gerar atas pré-preenchidas para otimizar o processo.</br></br>
-**Solução:** Para resolver o problema sugerido, a plataforma foi pensada na facilitação de agendamentos e execução de reuniões dentro de uma aplicação já definida à empresa, mantendo os usuários mais integrados aos processos.</br></br>
+**Desafio:** A empresa precisava lidar com equipes cada vez maiores no contexto pós-pandemia e apresentava dificuldades para coordenar o agendamento de reuniões. A falta de uma plataforma unificada para o gerenciamento das reuniões resultava em desorganização e tempo excessivo gasto em processos manuais. O desafio proposto foi desenvolver um portal que solucionasse os problemas de coordenação e agendamento de reuniões levando em consideração diferentes times, formatos (presencial, online, hibrido) e disponibilidades.</br>
+
+**Solução:** A proposta de solução foi o desenvolvimento de um portal web intuitivo e funcional, capaz de agendar reuniões de diferentes categorias e em diferentes níveis de permissão, automatizando o processo e reduzindo o tempo gasto na atividade. Além disso, o portal oferece um formulário pré-preenchido para as atas, permitindo que os participantes registrem facilmente os pontos discutidos e as decisões tomadas durante o encontro.</br></br>
 
 **GitHub:** [mirageGroup](https://github.com/MirageGroup/API_MirageGroup_4sem)</br></br>
   
