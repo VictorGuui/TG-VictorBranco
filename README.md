@@ -128,7 +128,7 @@ Minhas principais contribuições no projeto foram:
 
 ### Tecnologias Utilizadas
 
-- **Java**: Linguagem utilizada para criar a lógica por trás de todo o sistema desktop.
+- ** Java**: Linguagem de programação base do projeto, utilizada para desenvolver toda a lógica de funcionamento do sistema.
 - **Java Swing**: Responsável por criar as interfaces gráficas e torná-la viável para uso interativo.
 - **MySQL**: Banco de dados utilizado para armazenar todas as informações sobre os alunos e burocracias escolares.
 
@@ -153,6 +153,7 @@ Minhas principais contribuições no projeto foram:
 ### Soft Skills
 
 - **Comunicação**: Durante o projeto, conduzi todas as reuniões com a equipe para alinhar as expectativas e garantir que os objetivos fossem cumpridos.
+- **Resiliência**: Enfrentei desafios para me adaptar ao ritmo de trabalho do grupo e superar dificuldades técnicas, mantendo a motivação e o foco.
 - **Trabalho em equipe**: Atuei com outros desenvolvedores e técnicos, garantindo que todos os componentes do projeto fossem integrados de forma eficiente.
 - **Gestão de tempo**: Apliquei técnicas de priorização para garantir que as funcionalidades críticas fossem entregues dentro dos prazos estabelecidos pelo cronograma Scrum.
 - **Proatividade**: Tomei frente ao desenvolvimento e busquei me especializar naquilo para ajudar meu time.
@@ -257,8 +258,63 @@ Minhas principais contribuições no projeto foram:
 ### Soft Skills
 
 - **Comunicação**: Durante o projeto o auxiliei diversas vezes no time o papel de Scrum master e auxiliando o time para a entrega e conduzindo reuniões.
+- **Colaboração e integração**: Ao nos juntarmos ao novo time, precisei me adaptar ao ritmo e aos processos deles para garantir que a união fosse produtiva.
 - **Gestão de tempo**: Colaborei na delegação das tasks para otimizar o desenvolvimento e equilibrio entre o estágio na Climatempo e a faculdade.
 - **Resolução de problemas** – Tive um papel especifico para tomadas de decisões na equipe, execução e solução de alguns desafios.
 - **Adaptabilidade**: Durante o projeto, tive que aprender a lidar com resiliência pois eu precisava lidar com coisas novas para mim tanto do lado da faculdade quanto do serviço e a Gestão do Estresse pois foi necessario algumas mudanças bruscas no desenvolviemento.
 
+</details>
+
+<details>
+  <summary>5° Semestre</summary>
+  </br>
+
+  **Data:** *Agosto/2024*</br></br>
+  **Empresa Parceira:** Kersys. <br>
+   - **Área de Atuação:** Desenvolvimento de softwares de gestão para as áreas florestais e do agronegócio.</br></br>
+  
+  **Professores Reponsáveis:** M2: Jean Costa P2: Gerson da Penha<br><br>
+
+  **Desafio:** O problema apresentado pelo cliente envolvia a dificuldade dos produtores rurais para monitorar as condições climáticas de suas áreas de cultivo e acompanhar as mudanças climáticas que afetavam diretamente a produtividade agrícola. O desafio consistia em desenvolver uma solução para monitoramento climático em áreas de cultivo, onde o cliente precisava visualizar informações sobre a variação de clima em tempo real, com notificações para condições extremas que poderiam afetar a lavoura.
+
+**Solução:** A proposta de solução foi o desenvolvimento de um aplicativo mobile que permite aos usuários cadastrar seus pontos e acompanhar via gráficos a variação da pluviometria e da temperatura, emitindo notificações e alertas em caso de situações críticas.
+
+  
+  **GitHub:** [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_5_Semestre) 
+
+  ### Projeto do quinto semestre: ClimaMonitor
+  <div align="center">
+  <img src="./assets/api5_2.mp4" alt="aplicação rodando" width="600" height="450">
+  </div>  
+  
+### Tecnologias utilizadas:
+
+  * Typescript: Desenvolvimento tanto do frontend quanto do backend.
+  * React Native: Desenvolvimento do aplicativo mobile
+  * NodeJS: Backend responsável pela lógica de negócio e integração com outros serviços.
+  * Firebase: Armazenamento dos dados dos locais e cultivos.
+  * Leaflet: Exibição de mapa interativo para seleção e visualização de locais.
+  * MySQL: Armazenamento dos dados dos usuários.
+  
+### Contribuições Pessoais:
+
+  Fui responsável pelo desenvolvimento completo do back-end, incluindo a implementação de um CRUD para gerenciamento de usuários e plantações. Aprimorei minhas habilidades ao integrar o Firebase, garantindo uma conexão eficiente mesmo em condições de baixo acesso à rede. Além disso, apliquei a arquitetura hexagonal para organizar as pastas, promovendo um design mais escalável e modular.
+  
+### Hard Skills:
+  
+**React Native:** Experiência inicial com desenvolvimento mobile e criação de alguns componentes básicos. Proeficiência: (06/10).
+**Typescript:** Organização de código no frontend e backend. Proeficiência: (09/10).
+**NodeJS:** Lógica backend e manipulação de rotas para a comunicação com o frontend. Proeficiência: (09/10).
+**MySQL:** Manipulação de dados de usuários por meio de operações CRUD. Proeficiência: (10/10).
+**Firebase:** Manipulação de dados das plantações por meio de operações CRUD e acesso a um banco de dados NOSQL. Proeficiência: (08/10).
+  
+  
+### Soft Skills:
+
+  * Aprendizado rápido: Precisei me adaptar para aplicar os conceitos novos de React Native de forma rápida para desenvolver alguns componentes do aplicativo.
+  * Gestão de tempo: Como estava lidando com algumas tecnologias novas e lidando com a pressão do serviço precisei me adaptar muito bem para conciliar tudo e precisei organizar meu tempo de forma eficiente para cumprir os prazos.
+  * Resiliência: Enfrentei algumas dificuldades técnicas relacionadas a conexão do banco de dados Firebase e precisei persistir na busca por soluções.
+  * Proatividade: Tomei a iniciativa de sugerir melhorias nos critérios para aplicação no geral, assim como tomei a frente e resolvi os maiores impedimentos que teriamos que seria a conexão a um novo banco de dados onde não teriamos o conhecimento na faculdade.
+  
+  
 </details>
