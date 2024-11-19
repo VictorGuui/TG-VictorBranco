@@ -282,7 +282,7 @@ Minhas principais contribuições no projeto foram:
   **GitHub:** [GitHub do Projeto](https://github.com/MirageGroup/API_MirageGroup_5_Semestre) 
 
   ### Projeto do quinto semestre: ClimaMonitor <br>
-  Para ver o video da aplicação baixe [aqui](https://github.com/VictorGuui/TG1-VictorBranco/raw/refs/heads/main/assets/api5_2.mp4)
+   - Para ver o video da aplicação baixe [aqui](https://github.com/VictorGuui/TG1-VictorBranco/raw/refs/heads/main/assets/api5_2.mp4)
   
 ### Tecnologias utilizadas:
 
