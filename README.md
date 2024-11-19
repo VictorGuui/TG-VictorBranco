@@ -287,12 +287,12 @@ Minhas principais contribuições no projeto foram:
   
 ### Tecnologias utilizadas:
 
-  * Typescript: Desenvolvimento tanto do frontend quanto do backend.
-  * React Native: Desenvolvimento do aplicativo mobile
-  * NodeJS: Backend responsável pela lógica de negócio e integração com outros serviços.
-  * Firebase: Armazenamento dos dados dos locais e cultivos.
-  * Leaflet: Exibição de mapa interativo para seleção e visualização de locais.
-  * MySQL: Armazenamento dos dados dos usuários.
+- **Typescript:** Desenvolvimento tanto do frontend quanto do backend.
+- **React Native:** Desenvolvimento do aplicativo mobile
+- **NodeJS:** Backend responsável pela lógica de negócio e integração com outros serviços.
+- **Firebase:** Armazenamento dos dados dos locais e cultivos.
+- **Leaflet:** Exibição de mapa interativo para seleção e visualização de locais.
+- **MySQL:** Armazenamento dos dados dos usuários.
   
 ### Contribuições Pessoais:
 
@@ -300,11 +300,11 @@ Minhas principais contribuições no projeto foram:
   
 ### Hard Skills:
   
-**React Native:** Experiência inicial com desenvolvimento mobile e criação de alguns componentes básicos. Proeficiência: (06/10).
-**Typescript:** Organização de código no frontend e backend. Proeficiência: (09/10).
-**NodeJS:** Lógica backend e manipulação de rotas para a comunicação com o frontend. Proeficiência: (09/10).
-**MySQL:** Manipulação de dados de usuários por meio de operações CRUD. Proeficiência: (10/10).
-**Firebase:** Manipulação de dados das plantações por meio de operações CRUD e acesso a um banco de dados NOSQL. Proeficiência: (08/10).
+- **React Native:** Experiência inicial com desenvolvimento mobile e criação de alguns componentes básicos. Proeficiência: (06/10).
+- **Typescript:** Organização de código no frontend e backend. Proeficiência: (09/10).
+- **NodeJS:** Lógica backend e manipulação de rotas para a comunicação com o frontend. Proeficiência: (09/10).
+- **MySQL:** Manipulação de dados de usuários por meio de operações CRUD. Proeficiência: (10/10).
+- **Firebase:** Manipulação de dados das plantações por meio de operações CRUD e acesso a um banco de dados NOSQL. Proeficiência: (08/10).
   
   
 ### Soft Skills:
