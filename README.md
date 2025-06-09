@@ -317,57 +317,73 @@ Minhas principais contribuições no projeto foram:
 </details>
 
 <details>
-<summary>6° Semestre</summary>
-<h3>Projeto do sexto semestre: DOM ROCK</h3>
-Repositório: https://github.com/MirageGroup/API_MirageGroup_6_Semestre
-<br></br>
-<strong>Cliente:</strong> DOM Rock
-<br></br>
-<strong>Área de atuação:</strong> Dom Rock é uma empresa brasileira de tecnologia com sede em São José dos Campos, São Paulo, que se destaca por sua plataforma de inteligência operacional. Utilizando inteligência artificial (IA), automação e processamento de dados, a companhia oferece soluções para otimizar processos e a tomada de decisões em grandes empresas.
-<br></br>
-<strong>Professores responsáveis:</strong> M2: Eduardo Sakaue P2: Jose Walmir Gonçalves Duque
-<hr>
-<h3> Desafio proposto: </h3> 
-<p>- O desafio consiste em criar uma aplicação web de avaliação de respostas de LLM. A aplicaçãodeve permitir enviar um prompt para 2 (dois) LLMs via API simultaneamente. A seguir, a aplicação deve apresentar as 2 (duas) respostas obtidas. Para cada resposta, a aplicação apresenta os itens de avaliação das respostas e, ao final, a aplicação apresenta uma escala de comparação das duas respostas para que o usuário possa definir qual das duas respostas foi a melhor e justificar. Todas essas informações devem ser gravadas em um banco de dados que servirá para futuros retreinodos LLMs.</p>
+<summary>6º Semestre</summary>
+</br>
 
-<h3>Solução apresentada:</h3>
-<p>- Como solução, desenvolvemos uma plataforma web que permite que o usuário possa escrever um prompt para as LLMs integradas e apartir do raciocínio de ambas, são retornados 2 respostas, onde o usuário poderá escolher a melhor resposta e a partir de um sistema de RLHF, melhorar o raciocinio das IAs.
-</p>
+**Data:** *Maio/2025*</br></br>
+**Empresa:** *DOM Rock*</br>
+- **Área de Atuação:** Educação superior tecnológica.</br></br>
 
- **Tecnologias utilizadas:**
-  
-  * Python: Linguagem principal utilizada no backend, conhecida pela simplicidade e poder em aplicações de inteligência artificial.
-  * Modelos de LLMs (DeepSeek e Qwen): Modelos de linguagem de última geração utilizados para gerar e comparar respostas baseadas em IA.
-  * MongoDB: Banco de dados NoSQL utilizado para armazenar informações estruturadas e semiestruturadas do sistema.
-  * ChromaDB: Banco vetorial utilizado para armazenar e buscar embeddings de forma eficiente, essencial para aplicações com IA generativa.
-  * Vue: Framework JavaScript progressivo utilizado para construir a interface interativa da aplicação.
-  * LangChain: Framework utilizado para orquestrar e integrar modelos de linguagem com outras fontes de dados e ferramentas externas.
+**Professores responsáveis:** *Eduardo Sakaue e Jose Walmir Gonçalves Duque* </br></br>
 
-<hr>
-<h3>Minhas contribuições:</h3>
-<p>
-- Atuei como desenvolvedor backend no projeto, contribuindo diretamente na estruturação inicial da API, utilizando o framework Spring Boot para garantir uma base sólida e escalável para o sistema.<br><br>
-- Participei da modelagem de entidades, definição de rotas REST e organização da estrutura de pacotes, seguindo boas práticas de desenvolvimento orientado a objetos.<br><br>
-- Auxiliei na integração com o banco de dados MongoDB, configurando repositórios e realizando testes com as operações básicas de CRUD.<br><br>
-- Trabalhei em conjunto com o time para garantir que os dados das interações com os modelos de linguagem fossem devidamente persistidos e acessíveis para análises futuras.<br><br>
+**Área de Atuação da Empresa:**  
+Dom Rock é uma empresa brasileira de tecnologia com sede em São José dos Campos, São Paulo, que se destaca por sua plataforma de inteligência operacional. Utilizando inteligência artificial (IA), automação e processamento de dados, a companhia oferece soluções para otimizar processos e a tomada de decisões em grandes empresas.</br></br>
+
+**Repositório GitHub:** [API_MirageGroup_6_Semestre](https://github.com/MirageGroup/API_MirageGroup_6_Semestre)  
+</br>
+
+---
+
+### Desafio
+
+O desafio consiste em criar uma aplicação web de avaliação de respostas de LLM. A aplicação deve permitir enviar um prompt para 2 (dois) LLMs via API simultaneamente. A seguir, a aplicação deve apresentar as 2 (duas) respostas obtidas. Para cada resposta, a aplicação apresenta os itens de avaliação das respostas e, ao final, a aplicação apresenta uma escala de comparação das duas respostas para que o usuário possa definir qual das duas respostas foi a melhor e justificar. Todas essas informações devem ser gravadas em um banco de dados que servirá para futuros retreinamentos das LLMs.
+
+---
+
+### Solução
+
+Como solução, desenvolvemos uma plataforma web que permite que o usuário possa escrever um prompt para as LLMs integradas e, a partir do raciocínio de ambas, são retornadas 2 respostas. O usuário poderá escolher a melhor resposta e, a partir de um sistema de RLHF, melhorar o raciocínio das IAs.
+
+---
+
+### Tecnologias Utilizadas
+
+- **Python**: Linguagem principal utilizada no backend, conhecida pela simplicidade e poder em aplicações de inteligência artificial.  
+- **Modelos de LLMs (DeepSeek e Qwen)**: Modelos de linguagem de última geração utilizados para gerar e comparar respostas baseadas em IA.  
+- **MongoDB**: Banco de dados NoSQL utilizado para armazenar informações estruturadas e semiestruturadas do sistema.  
+- **ChromaDB**: Banco vetorial utilizado para armazenar e buscar embeddings de forma eficiente, essencial para aplicações com IA generativa.  
+- **Vue**: Framework JavaScript progressivo utilizado para construir a interface interativa da aplicação.  
+- **LangChain**: Framework utilizado para orquestrar e integrar modelos de linguagem com outras fontes de dados e ferramentas externas.
+
+---
+
+### Contribuições Pessoais
+
+- Atuei como desenvolvedor backend no projeto, contribuindo diretamente na estruturação inicial da API, utilizando o framework Spring Boot para garantir uma base sólida e escalável para o sistema.  
+- Participei da modelagem de entidades, definição de rotas REST e organização da estrutura de pacotes, seguindo boas práticas de desenvolvimento orientado a objetos.  
+- Auxiliei na integração com o banco de dados MongoDB, configurando repositórios e realizando testes com as operações básicas de CRUD.  
+- Trabalhei em conjunto com o time para garantir que os dados das interações com os modelos de linguagem fossem devidamente persistidos e acessíveis para análises futuras.  
 - Colaborei também na documentação parcial da API, facilitando o entendimento e manutenção do código por outros membros da equipe.
-</p>
-<hr>
 
-<h3>Hard Skills:</h3>
-<ul>
-  <li>Python: Linguagem principal utilizada no backend, conhecida pela simplicidade e poder em aplicações de inteligência artificial.</li>
-  <p>Nível de proficiência: Uso com ajuda</p>
-  <li>Vue: Framework JavaScript progressivo utilizado para construir a interface interativa da aplicação.</li>
-  <p>Nível de proficiência: Uso com independência.</p>
-  <li>MongoDB: Banco de dados NoSQL utilizado para armazenar informações estruturadas e semiestruturadas do sistema.</li>
-  <p>Nível de proficiência: Uso com ajuda.</p>
-  <li>LangChain: Framework utilizado para orquestrar e integrar modelos de linguagem com outras fontes de dados e ferramentas externas.</li>
-  <p>Nível de proficiência: Uso com ajuda.</p>
-</ul>
-<h3>Soft Skills:</h3>
-<ul>
-  <li>Comunicação Assetiva: Um exemplo claro deste ponto foi a definição do DOR e DOD e sua devida validação com o cliente.</li>
-  <li>Negociação: Durante a segunda Sprint, não conseguimos entregar um item combinado com o cliente que foi o RLHF devido ao nível de complexidade não esperada, a partir disso, tive que reorganizar o planejamento e negociar com o cliente um novo prazo.</li>
-</ul>
+---
+
+### Hard Skills
+
+- **Python**: Linguagem principal utilizada no backend, conhecida pela simplicidade e poder em aplicações de inteligência artificial.  
+  - Nível de proficiência: Uso com ajuda  
+- **Vue**: Framework JavaScript progressivo utilizado para construir a interface interativa da aplicação.  
+  - Nível de proficiência: Uso com independência  
+- **MongoDB**: Banco de dados NoSQL utilizado para armazenar informações estruturadas e semiestruturadas do sistema.  
+  - Nível de proficiência: Uso com ajuda  
+- **LangChain**: Framework utilizado para orquestrar e integrar modelos de linguagem com outras fontes de dados e ferramentas externas.  
+  - Nível de proficiência: Uso com ajuda
+
+---
+
+### Soft Skills
+
+- **Comunicação Assertiva**: Um exemplo claro deste ponto foi a definição do DoR e DoD e sua devida validação com o cliente.  
+- **Negociação**: Durante a segunda Sprint, não conseguimos entregar um item combinado com o cliente (RLHF) devido ao nível de complexidade não esperada. A partir disso, tive que reorganizar o planejamento e negociar com o cliente um novo prazo.
+
 </details>
+
